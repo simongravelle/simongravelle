@@ -2,9 +2,11 @@
 
 ### Description
 
-This is the LAMMPS script to produce this video. 
+This is the LAMMPS script used to produce this simulation: 
 
 ![clwater](./dancingmolecules.webp)
+
+The system consists of a single chloride ion and five water molecules. The state.vmd file contains the VMD parameters. 
 
 ### Contact
 
