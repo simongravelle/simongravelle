@@ -1,18 +1,28 @@
-## Welcome
+### Welcome
 
-My name is Simon Gravelle, and I am Computer physicist in soft matter physics and fluids at interfaces. 
-
-Some of the content here is related to [LAMMPS Tutorials](https://lammpstutorials.github.io/) webpage.
+My name is Simon Gravelle, and I am computer physicist in soft matter physics and fluids at interfaces. 
 
 <a href="webp">
   <img src="webp/dancingmolecules.webp" align="right" width="20%"/>
 </a>
 
+What I share here:
+
+- inputs for LAMMPS and GROMACS
+- python scripts for preparing and analysing molecular dynamics simulations
+
+Find more here:
+
+- [lammpstutorials.github.io](lammpstutorials.github.io) - lammps material and guide for beginners and advanced users
+- [youtube channel](https://www.youtube.com/c/SimonGravelle) - videos from molecular simulations trajectories
+
+
+
+
 <!--
 
-<a href="https://github.com/nschloe/optimesh">
-  <img src="https://nschloe.github.io/optimesh/cvt-uniform-qnf.webp" align="right" width="20%"/>
-</a>
+Some of the content here is related to [LAMMPS Tutorials](https://lammpstutorials.github.io/) webpage.
+
 
 <!--
 
