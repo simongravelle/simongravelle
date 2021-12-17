@@ -6,6 +6,12 @@ Some of the content here is related to [LAMMPS Tutorials](https://lammpstutorial
 
 <!--
 
+<a href="https://github.com/nschloe/optimesh">
+  <img src="https://nschloe.github.io/optimesh/cvt-uniform-qnf.webp" align="right" width="20%"/>
+</a>
+
+<!--
+
 Solarized dark             |  Solarized Ocean           | test
 :-------------------------:|:-------------------------: | :-------------------------:
 ![](https://raw.githubusercontent.com/simongravelle/lammps-input-files/main/solids/silicalite/silicalite.png)  |  ![](https://raw.githubusercontent.com/simongravelle/lammps-input-files/main/solids/silicalite/silicalite.png) |  ![](https://raw.githubusercontent.com/simongravelle/lammps-input-files/main/solids/silicalite/silicalite.png)
