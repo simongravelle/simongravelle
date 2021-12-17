@@ -7,7 +7,7 @@ Some of the content here is related to [LAMMPS Tutorials](https://lammpstutorial
 
 
 <a href="https://github.com/nschloe/optimesh">
-  <img src="https://github.com/simongravelle/simongravelle/blob/main/v1.webp" align="right" width="20%"/>
+  <img src="https://github.com/simongravelle/simongravelle/blob/main/v2.webp" align="right" width="20%"/>
 </a>
 
 <!--
