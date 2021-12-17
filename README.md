@@ -4,11 +4,13 @@ My name is Simon Gravelle, and I am Computer physicist in soft matter physics an
 
 Some of the content here is related to [LAMMPS Tutorials](https://lammpstutorials.github.io/) webpage.
 
+<!--
+
 #### LAMMPS tutorials for beginners
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLmK_9wpyLVpcP7BPgN6BIw?style=social)
 
-<!--
+
 
 .. image:: https://img.shields.io/youtube/channel/subscribers/UCLmK_9wpyLVpcP7BPgN6BIw?style=social   :alt: YouTube Channel Subscribers
 
