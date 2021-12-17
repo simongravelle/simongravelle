@@ -14,9 +14,7 @@ What I share here:
 Find more here:
 
 - [lammpstutorials.github.io](lammpstutorials.github.io) - lammps material and guide for beginners and advanced users
-- [youtube channel](https://www.youtube.com/c/SimonGravelle) - videos from molecular simulations trajectories
-
-
+- [youtube channel](https://www.youtube.com/c/SimonGravelle) - videos from molecular simulation trajectories [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCLmK_9wpyLVpcP7BPgN6BIw?style=plastik)](https://www.youtube.com/c/SimonGravelle) [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLmK_9wpyLVpcP7BPgN6BIw?style=plastik)](https://www.youtube.com/c/SimonGravelle)
 
 
 <!--
