@@ -1,4 +1,4 @@
-## NaCl ions in water
+## Cl ion and water molecules
 
 ### Description
 
