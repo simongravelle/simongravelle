@@ -1,6 +1,6 @@
-### Welcome
+## Hi, I'm Simon
 
-My name is Simon Gravelle, and I am computer physicist in soft matter physics and fluids at interfaces. 
+Computer physicist in soft matter physics and fluids at interfaces. I am into open research. 
 
 <a href="webp">
   <img src="webp/dancingmolecules.webp" align="right" width="20%"/>
@@ -14,7 +14,8 @@ What I share here:
 Find more here:
 
 - [lammpstutorials.github.io](https://lammpstutorials.github.io/) - lammps material and guide for beginners and advanced users
-- [youtube channel](https://www.youtube.com/c/SimonGravelle) - videos from molecular simulation trajectories 
+- [youtube channel](https://www.youtube.com/c/SimonGravelle) - videos from molecular simulation trajectories
+- [maicos](https://maicos-devel.gitlab.io/maicos/index.html) - molecular analysis tookit for analysing interfacial and confined systems
 
 <!--
 
