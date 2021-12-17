@@ -13,7 +13,7 @@ What I share here:
 
 Find more here:
 
-- [lammpstutorials.github.io](lammpstutorials.github.io) - lammps material and guide for beginners and advanced users
+- [lammpstutorials.github.io](https://www.lammpstutorials.github.io) - lammps material and guide for beginners and advanced users
 - [youtube channel](https://www.youtube.com/c/SimonGravelle) - videos from molecular simulation trajectories 
 
 <!--
