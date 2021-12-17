@@ -6,6 +6,11 @@ Some of the content here is related to [LAMMPS Tutorials](https://lammpstutorial
 
 <!--
 
+Solarized dark             |  Solarized Ocean           | test
+:-------------------------:|:-------------------------: | :-------------------------:
+![](https://raw.githubusercontent.com/simongravelle/lammps-input-files/main/solids/silicalite/silicalite.png)  |  ![](https://raw.githubusercontent.com/simongravelle/lammps-input-files/main/solids/silicalite/silicalite.png) |  ![](https://raw.githubusercontent.com/simongravelle/lammps-input-files/main/solids/silicalite/silicalite.png)
+
+
 #### LAMMPS tutorials for beginners
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLmK_9wpyLVpcP7BPgN6BIw?style=social)
