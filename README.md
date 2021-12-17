@@ -4,6 +4,12 @@ My name is Simon Gravelle, and I am Computer physicist in soft matter physics an
 
 Some of the content here is related to [LAMMPS Tutorials](https://lammpstutorials.github.io/) webpage.
 
+
+
+<a href="https://github.com/nschloe/optimesh">
+  <img src="https://github.com/simongravelle/simongravelle/blob/main/v1.webp" align="right" width="20%"/>
+</a>
+
 <!--
 
 <a href="https://github.com/nschloe/optimesh">
