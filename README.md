@@ -8,7 +8,7 @@ Computer physicist in soft matter physics and fluids at interfaces. I am into op
 
 What I share here:
 
-- inputs for LAMMPS and GROMACS
+- molecular dynamics inputs for LAMMPS and GROMACS
 - python scripts for preparing and analysing molecular dynamics simulations
 
 Find more here:
