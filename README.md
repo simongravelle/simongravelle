@@ -11,7 +11,7 @@ What I share here:
 - molecular dynamics inputs for LAMMPS and GROMACS
 - python scripts for preparing and analysing molecular dynamics simulations
 
-Find more here:
+Find more:
 
 - [lammpstutorials.github.io](https://lammpstutorials.github.io/) - lammps material and guide for beginners and advanced users
 - [youtube channel](https://www.youtube.com/c/SimonGravelle) - videos from molecular simulation trajectories
