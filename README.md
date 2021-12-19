@@ -1,6 +1,6 @@
 ## Hi, I'm Simon
 
-Computer physicist in soft matter physics and fluids at interfaces. I am into open science. 
+Computer physicist in soft matter and fluids at interfaces. I am into open science. 
 
 <a href="webp">
   <img src="webp/dancingmolecules.webp" align="right" width="20%"/>
