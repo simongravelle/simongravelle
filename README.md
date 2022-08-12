@@ -13,8 +13,8 @@ What I share here:
 
 Find more:
 
-- [lammpstutorials.github.io](https://lammpstutorials.github.io/) - LAMMPS material and guide for beginners and advanced users
-- [gromacstutorials.github.io](https://gromacstutorials.github.io/) - GROMACS material and guide for beginners and advanced users
+- [lammpstutorials.github.io](https://lammpstutorials.github.io/) - LAMMPS step-by-step guides for absolute beginners
+- [gromacstutorials.github.io](https://gromacstutorials.github.io/) - GROMACS step-by-step guides for absolute beginners
 - [youtube channel](https://www.youtube.com/c/SimonGravelle) - videos from molecular simulation trajectories
 - [maicos](https://maicos-devel.gitlab.io/maicos/index.html) - molecular analysis tookit for analysing interfacial and confined systems
 
