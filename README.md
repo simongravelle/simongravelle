@@ -24,6 +24,7 @@ Find more:
 
 <a href="lammpstutorials.github.io" style="text-decoration:none">lammpstutorials.github.io</a>
 
--->
 
 [![Mathieu's GitHub stats](https://github-readme-stats.vercel.app/api?username=simongravelle)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
