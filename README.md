@@ -1,8 +1,6 @@
 ## Hi, I'm Simon
 
-Computer physicist in soft matter and fluids at interfaces. I am into open science. 
-
-You can find my webpage [here](https://simongravelle.github.io/).
+Computer physicist in soft matter and fluids at interfaces. I am into open science. You can find my webpage [here](https://simongravelle.github.io/).
 
 <a href="webp">
   <img src="webp/dancingmolecules.webp" align="right" width="20%"/>
