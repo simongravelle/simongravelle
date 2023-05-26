@@ -10,6 +10,7 @@ What I share here:
 
 - molecular dynamics inputs for LAMMPS and GROMACS
 - python scripts for preparing and analysing molecular dynamics simulations
+- the data and scripts that are linked to my [recent publication]([publication-data/](https://github.com/simongravelle/publication-data))
 
 Find more:
 
