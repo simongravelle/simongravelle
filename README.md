@@ -3,7 +3,7 @@
 Computer physicist in soft matter and fluids at interfaces. I am into open science. You can find my [personal webpage here](https://simongravelle.github.io/).
 
 <a href="webp">
-  <img src="png/molecules-ions.png" align="right" width="20%"/>
+  <img src="png/molecules-ions.png" align="right" width="13%"/>
 </a>
 
 What I share here:
