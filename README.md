@@ -18,6 +18,7 @@ Find more:
 - [gromacstutorials.github.io](https://gromacstutorials.github.io/) - GROMACS step-by-step guides for absolute beginners
 - [youtube channel](https://www.youtube.com/c/SimonGravelle) - videos from molecular simulation trajectories
 - [maicos](https://maicos-devel.gitlab.io/maicos/index.html) - molecular analysis tookit for analysing interfacial and confined systems
+- [nmrformd](https://nmrformd.readthedocs.io) - Python script for the calculation of H-NMR relaxation time 
 
 <!--
 
