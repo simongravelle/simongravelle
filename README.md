@@ -2,15 +2,15 @@
 
 Computer physicist in soft matter and fluids at interfaces. I am into open science. You can find my [personal webpage here](https://simongravelle.github.io/).
 
-<a href="webp">
-  <img src="png/molecules-ions.png" align="right" width="13%"/>
-</a>
-
 What I share here:
 
 - molecular dynamics inputs for LAMMPS and GROMACS
 - python scripts for preparing and analysing molecular dynamics simulations
 - the data and scripts that are linked to my [recent publications](https://github.com/simongravelle/publication-data)
+
+<a href="webp">
+  <img src="png/molecules-ions.png" align="right" width="13%"/>
+</a>
 
 Find more:
 
