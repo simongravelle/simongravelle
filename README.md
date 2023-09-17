@@ -8,7 +8,7 @@ What I share here:
 - python scripts for preparing and analysing molecular dynamics simulations
 - the data and scripts that are linked to my [recent publications](https://github.com/simongravelle/publication-data)
 
-<a href="webp">
+<a href="https://github.com/simongravelle/gallery">
   <img src="https://raw.githubusercontent.com/simongravelle/gallery/main/docs/images/2023-09-17-luteolin/luteolin-dark.png" align="right" width="30%"/>
 </a>
 
