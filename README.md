@@ -17,6 +17,7 @@ Find more:
 - [lammpstutorials.github.io](https://lammpstutorials.github.io/) - LAMMPS step-by-step guides for absolute beginners
 - [gromacstutorials.github.io](https://gromacstutorials.github.io/) - GROMACS step-by-step guides for absolute beginners
 - [youtube channel](https://www.youtube.com/c/SimonGravelle) - videos from molecular simulation trajectories
+- [gallery of molecules](https://github.com/simongravelle/gallery) - pictures and scripts
 - [maicos](https://maicos-devel.gitlab.io/maicos/index.html) - molecular analysis tookit for analysing interfacial and confined systems
 - [nmrformd](https://nmrformd.readthedocs.io) - Python script for the calculation of H-NMR relaxation time 
 
