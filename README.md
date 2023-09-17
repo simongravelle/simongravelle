@@ -9,7 +9,7 @@ What I share here:
 - the data and scripts that are linked to my [recent publications](https://github.com/simongravelle/publication-data)
 
 <a href="webp">
-  <img src="https://raw.githubusercontent.com/simongravelle/gallery/main/docs/images/2023-09-17-luteolin/luteolin-dark.png" align="right" width="40%"/>
+  <img src="https://raw.githubusercontent.com/simongravelle/gallery/main/docs/images/2023-09-17-luteolin/luteolin-dark.png" align="right" width="30%"/>
 </a>
 
 Find more:
