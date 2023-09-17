@@ -9,7 +9,7 @@ What I share here:
 - the data and scripts that are linked to my [recent publications](https://github.com/simongravelle/publication-data)
 
 <a href="webp">
-  <img src="png/molecules-ions.png" align="right" width="13%"/>
+  <img src="docs/images/2023-09-17-luteolin/luteolin.png" align="right" width="13%"/>
 </a>
 
 Find more:
