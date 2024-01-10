@@ -4,9 +4,9 @@ Computer physicist in soft matter and fluids at interfaces. I am into open scien
 
 What I share here:
 
-- molecular dynamics inputs for LAMMPS and GROMACS
-- python scripts for preparing and analysing molecular dynamics simulations
-- the data and scripts that are linked to my [recent publications](https://github.com/simongravelle/publication-data)
+- molecular dynamics inputs for LAMMPS and GROMACS,
+- scripts for preparing and analyzing molecular dynamics simulations,
+- data from my [recent publications](https://github.com/simongravelle/publication-data).
 
 <a href="https://github.com/simongravelle/gallery">
   <img src="https://raw.githubusercontent.com/simongravelle/gallery/main/docs/images/2023-10-13-GRAPHENE/graphene-bw.png" align="right" width="30%"/>
