@@ -34,7 +34,7 @@ I am into open science. You can find my [personal webpage here](https://simongra
 
 - [MAICoS](https://maicos-devel.gitlab.io/maicos/index.html) - molecular analysis toolkit for analysing interfacial and confined systems
 - [The gallery of molecules](https://github.com/simongravelle/gallery) - high resolution molecules with scripts
-- [ATB2LAMMPS]([https://github.com/simongravelle/gallery](https://github.com/simongravelle/atb2lammps)) - a LAMMPS molecule template generator
+- [ATB2LAMMPS](https://github.com/simongravelle/atb2lammps) - a LAMMPS molecule template generator
 
 <!--- 
 - [lammpstutorials.github.io](https://lammpstutorials.github.io/) - LAMMPS step-by-step guides for absolute beginners
