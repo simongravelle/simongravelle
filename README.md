@@ -9,11 +9,11 @@ Computer physicist in soft matter and fluids at interfaces.
 I am into open science. You can find my [personal webpage here](https://simongravelle.github.io/).
 --->
 
-What I share here:
+# What I share here:
 
-- molecular dynamics inputs for LAMMPS and GROMACS,
-- scripts for preparing and analyzing molecular dynamics simulations,
-- data from my [recent publications](https://github.com/simongravelle/publication-data).
+- Molecular dynamics inputs for LAMMPS and GROMACS
+- Scripts for preparing and analyzing molecular dynamics simulations
+- Data from my recent publications
 
 <!--- 
 <a href="https://github.com/simongravelle/gallery">
@@ -25,13 +25,23 @@ What I share here:
     <img src="https://raw.githubusercontent.com/lammpstutorials/lammpstutorials.github.io/version2.0/docs/avatars/level3/water-adsorption-in-silica/water-adsorption.png" align="right" width="30%"/>
 </a>
 
-Find more:
+# My main open-source projects:
 
+- [LAMMPS tutorials](https://lammpstutorials.github.io/) - LAMMPS step-by-step guides for absolute beginners
+- [NMRforMD](https://nmrformd.readthedocs.io) - Python script for the calculation of H-NMR relaxation time 
+
+# See also
+
+- [MAICoS](https://maicos-devel.gitlab.io/maicos/index.html) - molecular analysis toolkit for analysing interfacial and confined systems
+- [The gallery of molecules](https://github.com/simongravelle/gallery) - high resolution molecules with scripts
+- [ATB2LAMMPS]([https://github.com/simongravelle/gallery](https://github.com/simongravelle/atb2lammps)) - a LAMMPS molecule template generator
+
+<!--- 
 - [lammpstutorials.github.io](https://lammpstutorials.github.io/) - LAMMPS step-by-step guides for absolute beginners
 - [gromacstutorials.github.io](https://gromacstutorials.github.io/) - GROMACS step-by-step guides for absolute beginners
 - [youtube channel](https://www.youtube.com/c/SimonGravelle) - videos from molecular simulation trajectories
 - [gallery of molecules](https://github.com/simongravelle/gallery) - high resolution molecules with scripts
 - [maicos](https://maicos-devel.gitlab.io/maicos/index.html) - molecular analysis toolkit for analysing interfacial and confined systems
 - [nmrformd](https://nmrformd.readthedocs.io) - Python script for the calculation of H-NMR relaxation time 
-
+--->
 <!--- ![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=simongravelle&show_icons=true&hide_title=true&card_width=650&theme=transparent) --->
