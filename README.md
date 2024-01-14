@@ -32,7 +32,7 @@ I am into open science. You can find my [personal webpage here](https://simongra
 
 # See also
 
-- MAICoS - molecular analysis toolkit for analysing interfacial and confined systems [:link:](https://maicos-devel.gitlab.io/maicos/index.html)
+- MAICoS - molecular analysis of interfacial and confined systems [:link:](https://maicos-devel.gitlab.io/maicos/index.html)
 - The gallery of molecules - high resolution molecules with scripts [:link:](https://github.com/simongravelle/gallery)
 - ATB2LAMMPS: a LAMMPS molecule template generator [:link:](https://github.com/simongravelle/atb2lammps)
 
@@ -45,8 +45,3 @@ I am into open science. You can find my [personal webpage here](https://simongra
 - [nmrformd](https://nmrformd.readthedocs.io) - Python script for the calculation of H-NMR relaxation time 
 --->
 <!--- ![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=simongravelle&show_icons=true&hide_title=true&card_width=650&theme=transparent) --->
-
-
-[normal link](https://www.google.com/)
-
-<a href="https://www.google.com/" style="text-decoration: none;">custom link</a>
