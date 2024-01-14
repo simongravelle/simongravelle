@@ -21,4 +21,4 @@ Find more:
 - [maicos](https://maicos-devel.gitlab.io/maicos/index.html) - molecular analysis toolkit for analysing interfacial and confined systems
 - [nmrformd](https://nmrformd.readthedocs.io) - Python script for the calculation of H-NMR relaxation time 
 
-![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=simongravelle&show_icons=true&hide_title=true&card_width=650&theme=transparent)
+<!--- ![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=simongravelle&show_icons=true&hide_title=true&card_width=650&theme=transparent) --->
