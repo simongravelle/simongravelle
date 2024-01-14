@@ -28,7 +28,7 @@ I am into open science. You can find my [personal webpage here](https://simongra
 # My main open-source projects:
 
 - LAMMPS tutorials - LAMMPS step-by-step guides for absolute beginners [:link:](https://lammpstutorials.github.io/)
-- NMRforMD - Python script for the calculation of H-NMR relaxation time [:link:](https://nmrformd.readthedocs.io))
+- NMRforMD - Python script for the calculation of H-NMR relaxation time [:link:](https://nmrformd.readthedocs.io)
 
 # See also
 
