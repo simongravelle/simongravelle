@@ -1,12 +1,13 @@
-![Header](./github-header-image.png)
+<a href="https://simongravelle.github.io/">
+  <img src="./github-header-image.png" width="100%"/>
+</a>
 
 <!--- 
 ## Hi, I'm Simon
 
 Computer physicist in soft matter and fluids at interfaces. 
---->
-
 I am into open science. You can find my [personal webpage here](https://simongravelle.github.io/).
+--->
 
 What I share here:
 
