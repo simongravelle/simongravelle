@@ -8,8 +8,14 @@ What I share here:
 - scripts for preparing and analyzing molecular dynamics simulations,
 - data from my [recent publications](https://github.com/simongravelle/publication-data).
 
+<!--- 
 <a href="https://github.com/simongravelle/gallery">
   <img src="https://raw.githubusercontent.com/simongravelle/gallery/main/docs/images/2023-10-13-GRAPHENE/graphene-bw.png" align="right" width="30%"/>
+</a>
+--->
+
+<a href="https://lammpstutorials.github.io/sphinx/build/html/tutorials/level3/water-adsorption-in-silica.html">
+    <img src="https://raw.githubusercontent.com/lammpstutorials/lammpstutorials.github.io/version2.0/docs/avatars/level3/water-adsorption-in-silica/water-adsorption.png" align="right" width="30%"/>
 </a>
 
 Find more:
