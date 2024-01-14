@@ -1,6 +1,12 @@
+![Header](./github-header-image.png)
+
+<!--- 
 ## Hi, I'm Simon
 
-Computer physicist in soft matter and fluids at interfaces. I am into open science. You can find my [personal webpage here](https://simongravelle.github.io/).
+Computer physicist in soft matter and fluids at interfaces. 
+--->
+
+I am into open science. You can find my [personal webpage here](https://simongravelle.github.io/).
 
 What I share here:
 
