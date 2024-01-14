@@ -27,14 +27,14 @@ I am into open science. You can find my [personal webpage here](https://simongra
 
 # My main open-source projects:
 
-- [LAMMPS tutorials](https://lammpstutorials.github.io/) - LAMMPS step-by-step guides for absolute beginners
-- [NMRforMD](https://nmrformd.readthedocs.io) - Python script for the calculation of H-NMR relaxation time 
+- LAMMPS tutorials - LAMMPS step-by-step guides for absolute beginners [:link:](https://lammpstutorials.github.io/)
+- NMRforMD - Python script for the calculation of H-NMR relaxation time [:link:](https://nmrformd.readthedocs.io))
 
 # See also
 
-- [MAICoS](https://maicos-devel.gitlab.io/maicos/index.html) - molecular analysis toolkit for analysing interfacial and confined systems
-- [The gallery of molecules](https://github.com/simongravelle/gallery) - high resolution molecules with scripts
-- [ATB2LAMMPS](https://github.com/simongravelle/atb2lammps) - a LAMMPS molecule template generator
+- MAICoS - molecular analysis toolkit for analysing interfacial and confined systems [:link:](https://maicos-devel.gitlab.io/maicos/index.html)
+- The gallery of molecules - high resolution molecules with scripts [:link:](https://github.com/simongravelle/gallery)
+- ATB2LAMMPS: a LAMMPS molecule template generator [:link:](https://github.com/simongravelle/atb2lammps)
 
 <!--- 
 - [lammpstutorials.github.io](https://lammpstutorials.github.io/) - LAMMPS step-by-step guides for absolute beginners
@@ -45,3 +45,8 @@ I am into open science. You can find my [personal webpage here](https://simongra
 - [nmrformd](https://nmrformd.readthedocs.io) - Python script for the calculation of H-NMR relaxation time 
 --->
 <!--- ![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=simongravelle&show_icons=true&hide_title=true&card_width=650&theme=transparent) --->
+
+
+[normal link](https://www.google.com/)
+
+<a href="https://www.google.com/" style="text-decoration: none;">custom link</a>
