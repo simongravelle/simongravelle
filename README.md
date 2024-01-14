@@ -27,14 +27,14 @@ I am into open science. You can find my [personal webpage here](https://simongra
 
 # My main open-source projects:
 
-- LAMMPS tutorials - LAMMPS step-by-step guides for absolute beginners [:link:](https://lammpstutorials.github.io/)
-- NMRforMD - Python script for the calculation of H-NMR relaxation time [:link:](https://nmrformd.readthedocs.io)
+- LAMMPS tutorials [:link:](https://lammpstutorials.github.io/) LAMMPS step-by-step guides for absolute beginners 
+- NMRforMD [:link:](https://nmrformd.readthedocs.io) Python script for the calculation of H-NMR relaxation time 
 
 # See also
 
-- MAICoS - molecular analysis of interfacial and confined systems [:link:](https://maicos-devel.gitlab.io/maicos/index.html)
-- The gallery of molecules - high resolution molecules with scripts [:link:](https://github.com/simongravelle/gallery)
-- ATB2LAMMPS: a LAMMPS molecule template generator [:link:](https://github.com/simongravelle/atb2lammps)
+- MAICoS [:link:](https://maicos-devel.gitlab.io/maicos/index.html) molecular analysis of interfacial and confined systems 
+- The gallery of molecules [:link:](https://github.com/simongravelle/gallery) high resolution molecules with scripts 
+- ATB2LAMMPS [:link:](https://github.com/simongravelle/atb2lammps) a LAMMPS molecule template generator 
 
 <!--- 
 - [lammpstutorials.github.io](https://lammpstutorials.github.io/) - LAMMPS step-by-step guides for absolute beginners
