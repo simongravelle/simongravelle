@@ -15,7 +15,7 @@
 # My main open-source projects:
 
 - LAMMPS tutorials [:link:](https://lammpstutorials.github.io/) LAMMPS step-by-step guides for absolute beginners
-- GROMACS tutorials [:link:](https://github.com/gromacstutorials) GROMACS step-by-step guides for absolute beginners
+- GROMACS tutorials [:link:](https://gromacstutorials.github.io/) GROMACS step-by-step guides for absolute beginners
 - NMRforMD [:link:](https://nmrformd.readthedocs.io) Python script for the calculation of H-NMR relaxation time
 - MDcourse [:link:](https://github.com/mdcourse) Learn molecular simulations using Python (under construction)
 
