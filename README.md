@@ -3,13 +3,14 @@
 </a>
 
 # Simon Gravelle
-Computer physicist in soft matter and fluids at interfaces
+
+Computer physicist in soft matter and fluids at interfaces in LIPhy, UGA, CNRS
 
 <!--
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/GravelleSimon?style=for-the-badge)
 -->
 
-## What I share here:
+## What I share here on GitHub:
 
 - Molecular dynamics inputs for LAMMPS and GROMACS
 - Scripts for preparing and analyzing molecular dynamics simulations
@@ -18,6 +19,9 @@ Computer physicist in soft matter and fluids at interfaces
 <a href="https://lammpstutorials.github.io/sphinx/build/html/tutorials/level3/water-adsorption-in-silica.html">
     <img src="https://raw.githubusercontent.com/lammpstutorials/lammpstutorials.github.io/2Aug2023/docs/avatars/level3/water-adsorption-in-silica/water-adsorption.png" align="right" width="30%"/>
 </a>
+
+![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/simongravelle)
+![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/simongravelle)
 
 ## Main open-source projects:
 
@@ -50,6 +54,3 @@ Videos of molecular simulations, mostly done with LAMMPS and GROMACS [:link:](ht
 
 ![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=simongravelle&show_icons=true&hide_title=true&card_width=650&theme=transparent) 
 -->
-
-![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/simongravelle)
-![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/simongravelle)
