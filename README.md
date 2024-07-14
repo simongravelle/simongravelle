@@ -19,18 +19,18 @@
 - NMRforMD [:link:](https://nmrformd.readthedocs.io) Python script for the calculation of H-NMR relaxation time
 - MDcourse [:link:](https://github.com/mdcourse) Learn molecular simulations using Python (under construction)
 
+# My Youtube channel
+
+[![Simon Gravelle's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCLmK_9wpyLVpcP7BPgN6BIw&custom_title=Molecular%20videos&theme=dark&layout=extruded)](https://www.youtube.com/c/SimonGravelle)
+
 # See also
 
 - MAICoS [:link:](https://maicos-devel.gitlab.io/maicos/index.html) molecular analysis of interfacial and confined systems 
 - The gallery of molecules [:link:](https://github.com/simongravelle/gallery) high resolution molecules with scripts 
-- ATB2LAMMPS [:link:](https://github.com/simongravelle/atb2lammps) a LAMMPS molecule template generator 
+- ATB2LAMMPS [:link:](https://github.com/simongravelle/atb2lammps) a LAMMPS molecule template generator
 
-<!--- 
-- [lammpstutorials.github.io](https://lammpstutorials.github.io/) - LAMMPS step-by-step guides for absolute beginners
-- [gromacstutorials.github.io](https://gromacstutorials.github.io/) - GROMACS step-by-step guides for absolute beginners
-- [youtube channel](https://www.youtube.com/c/SimonGravelle) - videos from molecular simulation trajectories
-- [gallery of molecules](https://github.com/simongravelle/gallery) - high resolution molecules with scripts
-- [maicos](https://maicos-devel.gitlab.io/maicos/index.html) - molecular analysis toolkit for analysing interfacial and confined systems
-- [nmrformd](https://nmrformd.readthedocs.io) - Python script for the calculation of H-NMR relaxation time 
---->
-<!--- ![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=simongravelle&show_icons=true&hide_title=true&card_width=650&theme=transparent) --->
+<!--
+# GitHub stats
+
+![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=simongravelle&show_icons=true&hide_title=true&card_width=650&theme=transparent) 
+-->
