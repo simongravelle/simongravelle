@@ -5,9 +5,6 @@
 # Simon Gravelle
 Computer physicist in soft matter and fluids at interfaces
 
-![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/simongravelle)
-![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/simongravelle)
-
 ## What I share here:
 
 - Molecular dynamics inputs for LAMMPS and GROMACS
@@ -25,9 +22,18 @@ Computer physicist in soft matter and fluids at interfaces
 - NMRforMD [:link:](https://nmrformd.readthedocs.io) Python script for the calculation of H-NMR relaxation time
 - MDcourse [:link:](https://github.com/mdcourse) Learn molecular simulations using Python (under construction)
 
+<!--
 ## My Youtube channel
 
 [![Simon Gravelle's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCLmK_9wpyLVpcP7BPgN6BIw&custom_title=Molecular%20videos&theme=dark&layout=extruded)](https://www.youtube.com/c/SimonGravelle)
+-->
+
+## Youtube channel
+
+Videos of molecular simulations, mostly done with LAMMPS and GROMACS [:link:](https://www.youtube.com/c/SimonGravelle) 
+
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCLmK_9wpyLVpcP7BPgN6BIw?style=for-the-badge&logoSize=auto)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLmK_9wpyLVpcP7BPgN6BIw?style=for-the-badge&logoSize=auto)
 
 ## See also
 
@@ -40,3 +46,6 @@ Computer physicist in soft matter and fluids at interfaces
 
 ![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=simongravelle&show_icons=true&hide_title=true&card_width=650&theme=transparent) 
 -->
+
+![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/simongravelle)
+![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/simongravelle)
