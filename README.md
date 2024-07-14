@@ -5,6 +5,10 @@
 # Simon Gravelle
 Computer physicist in soft matter and fluids at interfaces
 
+<!--
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/GravelleSimon?style=for-the-badge)
+-->
+
 ## What I share here:
 
 - Molecular dynamics inputs for LAMMPS and GROMACS
