@@ -31,6 +31,7 @@ Computer physicist in soft matter and fluids at interfaces in LIPhy, UGA, CNRS
 - GROMACS tutorials [:link:](https://gromacstutorials.github.io/) GROMACS step-by-step guides for absolute beginners
 - NMRforMD [:link:](https://nmrformd.readthedocs.io) Python script for the calculation of H-NMR relaxation time
 - MDcourse [:link:](https://github.com/mdcourse) Learn molecular simulations using Python (under construction)
+- MAICoS [:link:](https://maicos-devel.gitlab.io/maicos/index.html) molecular analysis of interfacial and confined systems 
 
 <!--
 ## My Youtube channel
@@ -47,7 +48,6 @@ Videos of molecular simulations, mostly done with LAMMPS and GROMACS [:link:](ht
 
 ## See also
 
-- MAICoS [:link:](https://maicos-devel.gitlab.io/maicos/index.html) molecular analysis of interfacial and confined systems 
 - The gallery of molecules [:link:](https://github.com/simongravelle/gallery) high resolution molecules with scripts 
 - ATB2LAMMPS [:link:](https://github.com/simongravelle/atb2lammps) a LAMMPS molecule template generator
 
