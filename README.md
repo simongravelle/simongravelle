@@ -1,6 +1,8 @@
+<!--
 <a href="https://www.cnrs.fr">
     <img src="./png/cnrs-logo-blanc.png" align="right" width="15%"/>
 </a>
+-->
 
 # Simon Gravelle
 
