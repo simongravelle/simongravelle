@@ -47,7 +47,7 @@ Computer physicist in soft matter and fluids at interfaces in LIPhy, UGA, CNRS
 
 Videos of molecular simulations, mostly done with LAMMPS and GROMACS [:link:](https://www.youtube.com/c/SimonGravelle) 
 
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCLmK_9wpyLVpcP7BPgN6BIw?style=for-the-badge&logoSize=auto&color=24999c)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCLmK_9wpyLVpcP7BPgN6BIw?style=for-the-badge&logoSize=auto&color=24999c&logo=youtube)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLmK_9wpyLVpcP7BPgN6BIw?style=for-the-badge&logoSize=auto&color=24999c&logo=youtube)
 
 ## See also
