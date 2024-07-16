@@ -26,8 +26,8 @@ Computer physicist in soft matter and fluids at interfaces in LIPhy, UGA, CNRS
 ![GitHub followers](https://img.shields.io/github/followers/simongravelle)
 ![GitHub forks](https://img.shields.io/github/forks/simongravelle/:repo)
 -->
-![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/simongravelle)
-![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/simongravelle)
+![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/simongravelle&color=24999c)
+![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/simongravelle&color=24999c)
 
 ## Main open-source projects:
 
@@ -47,8 +47,8 @@ Computer physicist in soft matter and fluids at interfaces in LIPhy, UGA, CNRS
 
 Videos of molecular simulations, mostly done with LAMMPS and GROMACS [:link:](https://www.youtube.com/c/SimonGravelle) 
 
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCLmK_9wpyLVpcP7BPgN6BIw?style=for-the-badge&logoSize=auto&color=40fefe)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLmK_9wpyLVpcP7BPgN6BIw?style=for-the-badge&logoSize=auto&color=40fefe)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCLmK_9wpyLVpcP7BPgN6BIw?style=for-the-badge&logoSize=auto&color=24999c)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLmK_9wpyLVpcP7BPgN6BIw?style=for-the-badge&logoSize=auto&color=24999c)
 
 ## See also
 
