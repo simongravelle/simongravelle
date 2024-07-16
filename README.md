@@ -52,7 +52,7 @@ Videos of molecular simulations, mostly done with LAMMPS and GROMACS [:link:](ht
 
 ## See also
 
-- The gallery of molecules [:link:](https://github.com/simongravelle/gallery) high resolution molecules with scripts 
+- The gallery of molecules [:link:](https://github.com/simongravelle/gallery) high-resolution molecules with scripts 
 - ATB2LAMMPS [:link:](https://github.com/simongravelle/atb2lammps) a LAMMPS molecule template generator
 
 <!--
