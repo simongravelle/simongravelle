@@ -18,10 +18,6 @@ Computer physicist in soft matter and fluids at interfaces in LIPhy, UGA, CNRS
 - Scripts for preparing and analyzing molecular dynamics simulations
 - Data from my recent publications
 
-<a href="https://lammpstutorials.github.io/sphinx/build/html/tutorials/level3/water-adsorption-in-silica.html">
-    <img src="https://raw.githubusercontent.com/lammpstutorials/lammpstutorials.github.io/2Aug2023/docs/avatars/level3/water-adsorption-in-silica/water-adsorption.png" align="right" width="30%"/>
-</a>
-
 <!--
 ![GitHub followers](https://img.shields.io/github/followers/simongravelle)
 ![GitHub forks](https://img.shields.io/github/forks/simongravelle/:repo)
@@ -42,6 +38,10 @@ Computer physicist in soft matter and fluids at interfaces in LIPhy, UGA, CNRS
 
 [![Simon Gravelle's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCLmK_9wpyLVpcP7BPgN6BIw&custom_title=Molecular%20videos&theme=dark&layout=extruded)](https://www.youtube.com/c/SimonGravelle)
 -->
+
+<a href="https://lammpstutorials.github.io/sphinx/build/html/tutorials/level3/water-adsorption-in-silica.html">
+    <img src="https://raw.githubusercontent.com/lammpstutorials/lammpstutorials.github.io/2Aug2023/docs/avatars/level3/water-adsorption-in-silica/water-adsorption.png" align="right" width="30%"/>
+</a>
 
 ## Youtube channel
 
