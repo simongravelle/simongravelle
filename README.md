@@ -30,6 +30,8 @@ Computer physicist in soft matter and fluids at interfaces in LIPhy, UGA, CNRS
 | Organization Name | Description                   | Logo                              |
 |-------------------|-------------------------------|-----------------------------------|
 | LAMMPS tutorials  | Guides for LAMMPS beginners   | <img src="https://avatars.githubusercontent.com/u/77735956?s=96&v=4" alt="Org 1" width="30"/> |
+| GROMACS tutorials  | Guides for GROMACS beginners   | <img src="https://avatars.githubusercontent.com/u/110889758?s=96&v=4" alt="Org 2" width="30"/> |
+| MoleSimPy  | Step-by-Step Molecular Simulations with Python   | <img src="https://avatars.githubusercontent.com/u/96939446?s=96&v=4" alt="Org 3" width="30"/> |
 
 ## Main open-source projects:
 
