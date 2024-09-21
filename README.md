@@ -25,6 +25,14 @@ Computer physicist in soft matter and fluids at interfaces in LIPhy, UGA, CNRS
 ![Github Channel Stars](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/simongravelle&color=24999c)
 ![Github Channel Forks](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/simongravelle&color=24999c)
 
+## My GitHub organizations
+
+| Organization Name | Description                   | Logo                              |
+|-------------------|-------------------------------|-----------------------------------|
+| LAMMPS tutorials  | Guides for LAMMPS beginners   | <img src="https://avatars.githubusercontent.com/u/77735956?s=96&v=4" alt="Org 1" width="30"/> |
+| GROMACS tutorials  | Guides for GROMACS beginners   | <img src="https://avatars.githubusercontent.com/u/110889758?s=96&v=4" alt="Org 2" width="30"/> |
+| MoleSimPy  | Step-by-Step Molecular Simulations with Python   | <img src="https://avatars.githubusercontent.com/u/96939446?s=96&v=4" alt="Org 3" width="30"/> |
+
 ## Main open-source projects:
 
 - LAMMPS tutorials [:link:](https://lammpstutorials.github.io/) LAMMPS step-by-step guides for absolute beginners
