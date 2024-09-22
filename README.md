@@ -1,16 +1,6 @@
-<!--
-<a href="https://www.cnrs.fr">
-    <img src="./png/cnrs-logo-blanc.png" align="right" width="15%"/>
-</a>
--->
-
 # Simon Gravelle
 
 Computer physicist in soft matter and fluids at interfaces in LIPhy, UGA, CNRS
-
-<!--
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/GravelleSimon?style=for-the-badge)
--->
 
 ## What I share here on GitHub:
 
@@ -18,35 +8,23 @@ Computer physicist in soft matter and fluids at interfaces in LIPhy, UGA, CNRS
 - Scripts for preparing and analyzing molecular dynamics simulations
 - Data from my recent publications
 
-<!--
-![GitHub followers](https://img.shields.io/github/followers/simongravelle)
-![GitHub forks](https://img.shields.io/github/forks/simongravelle/:repo)
--->
 ![Github Channel Stars](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/simongravelle&color=24999c)
 ![Github Channel Forks](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/simongravelle&color=24999c)
 
+<a href="https://lammpstutorials.github.io/sphinx/build/html/tutorials/level3/water-adsorption-in-silica.html">
+    <img src="https://raw.githubusercontent.com/lammpstutorials/lammpstutorials.github.io/2Aug2023/docs/avatars/level3/water-adsorption-in-silica/water-adsorption.png" align="right" width="30%"/>
+</a>
+
 ## My main GitHub organizations
 
-| Organization Name | Description | Logo |
-|-------------------|-------------|------|
-| LAMMPS tutorials | Guides for LAMMPS beginners | [<img src="https://avatars.githubusercontent.com/u/77735956?s=96&v=4" alt="Org 1" width="30"/>](https://github.com/lammpstutorials) |
-| MDCourse | Step-by-Step Molecular Simulations with Python | [<img src="https://avatars.githubusercontent.com/u/96939446?s=96&v=4" alt="Org 2" width="30"/>](https://github.com/mdcourse) |
+- [<img src="https://avatars.githubusercontent.com/u/77735956?s=96&v=4" alt="Org 1" width="15"/>](https://github.com/lammpstutorials) LAMMPS tutorials -- Guides for LAMMPS beginners
+- [<img src="https://avatars.githubusercontent.com/u/96939446?s=96&v=4" alt="Org 2" width="15"/>](https://github.com/mdcourse) MDCourse -- Step-by-Step Molecular Simulations with Python
 
 ## Other open-source projects:
 
 - GROMACS tutorials [:link:](https://gromacstutorials.github.io/) GROMACS step-by-step guides for absolute beginners
 - NMRforMD [:link:](https://nmrformd.readthedocs.io) Python script for the calculation of H-NMR relaxation time
 - MAICoS [:link:](https://maicos-devel.gitlab.io/maicos/index.html) molecular analysis of interfacial and confined systems 
-
-<!--
-## My Youtube channel
-
-[![Simon Gravelle's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCLmK_9wpyLVpcP7BPgN6BIw&custom_title=Molecular%20videos&theme=dark&layout=extruded)](https://www.youtube.com/c/SimonGravelle)
--->
-
-<a href="https://lammpstutorials.github.io/sphinx/build/html/tutorials/level3/water-adsorption-in-silica.html">
-    <img src="https://raw.githubusercontent.com/lammpstutorials/lammpstutorials.github.io/2Aug2023/docs/avatars/level3/water-adsorption-in-silica/water-adsorption.png" align="right" width="30%"/>
-</a>
 
 ## Youtube channel
 
@@ -60,9 +38,3 @@ Videos of molecular simulations, mostly done with LAMMPS and GROMACS [:link:](ht
 - The gallery of molecules [:link:](https://github.com/simongravelle/gallery) high-resolution molecules with scripts 
 - ATB2LAMMPS [:link:](https://github.com/simongravelle/atb2lammps) a LAMMPS molecule template generator
 - The plotting functions [:link:](https://github.com/simongravelle/pyplot-perso) that I use to generate my graphs
-
-<!--
-# GitHub stats
-
-![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=simongravelle&show_icons=true&hide_title=true&card_width=650&theme=transparent) 
--->
