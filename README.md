@@ -27,15 +27,14 @@ Computer physicist in soft matter and fluids at interfaces in LIPhy, UGA, CNRS
 
 ## My GitHub organizations
 
-| Organization Name | Description                   | Logo                              |
-|-------------------|-------------------------------|-----------------------------------|
-| LAMMPS tutorials  | Guides for LAMMPS beginners   | <img src="https://avatars.githubusercontent.com/u/77735956?s=96&v=4" alt="Org 1" width="30"/> |
+| Organization Name | Description | Logo |
+|-------------------|-------------|------|
+| LAMMPS tutorials | Guides for LAMMPS beginners | [<img src="https://avatars.githubusercontent.com/u/77735956?s=96&v=4" alt="Org 1" width="30"/>](https://lammpstutorials.github.io/) |
 | GROMACS tutorials  | Guides for GROMACS beginners   | <img src="https://avatars.githubusercontent.com/u/110889758?s=96&v=4" alt="Org 2" width="30"/> |
 | MoleSimPy  | Step-by-Step Molecular Simulations with Python   | <img src="https://avatars.githubusercontent.com/u/96939446?s=96&v=4" alt="Org 3" width="30"/> |
 
-## Main open-source projects:
+## My open-source projects:
 
-- LAMMPS tutorials [:link:](https://lammpstutorials.github.io/) LAMMPS step-by-step guides for absolute beginners
 - GROMACS tutorials [:link:](https://gromacstutorials.github.io/) GROMACS step-by-step guides for absolute beginners
 - NMRforMD [:link:](https://nmrformd.readthedocs.io) Python script for the calculation of H-NMR relaxation time
 - MDcourse [:link:](https://github.com/mdcourse) Learn molecular simulations using Python (under construction)
