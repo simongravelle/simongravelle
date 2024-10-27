@@ -1,12 +1,13 @@
 # Simon Gravelle
 
-Computer physicist in soft matter and fluids at interfaces in LIPhy, UGA, CNRS
+Computer physicist in soft matter and fluids at interfaces in LIPhy (UGA, CNRS),
+in Grenoble, France.
 
 ## What I share here on GitHub:
 
 - Molecular dynamics inputs for LAMMPS and GROMACS
 - Scripts for preparing and analyzing molecular dynamics simulations
-- Data from my recent publications
+- Data and scripts from my [recent publications](https://github.com/simongravelle/publication-data)
 
 ![Github Channel Stars](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/simongravelle&color=24999c)
 ![Github Channel Forks](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/simongravelle&color=24999c)
