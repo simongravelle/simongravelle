@@ -16,7 +16,7 @@ in Grenoble, France.
     <img src="https://raw.githubusercontent.com/lammpstutorials/lammpstutorials.github.io/2Aug2023/docs/avatars/level3/water-adsorption-in-silica/water-adsorption.png" align="right" width="30%"/>
 </a>
 
-## My main GitHub organizations
+## My Primary GitHub Organizations
 
 - [<img src="https://avatars.githubusercontent.com/u/77735956?s=96&v=4" alt="Org 1" width="15"/>](https://github.com/lammpstutorials) LAMMPS tutorials -- Guides for LAMMPS beginners
 - [<img src="https://avatars.githubusercontent.com/u/96939446?s=96&v=4" alt="Org 2" width="15"/>](https://github.com/mdcourse) MDCourse -- Step-by-Step Molecular Simulations with Python
