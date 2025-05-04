@@ -22,13 +22,14 @@ in Grenoble, France.
 
 - [<img src="https://avatars.githubusercontent.com/u/77735956?s=96&v=4" alt="Org 1" width="15"/>](https://github.com/lammpstutorials) LAMMPS tutorials -- Guides for LAMMPS beginners
 - [<img src="https://avatars.githubusercontent.com/u/96939446?s=96&v=4" alt="Org 2" width="15"/>](https://github.com/mdcourse) MDCourse -- Step-by-Step Molecular Simulations with Python
+- [<img src="https://avatars.githubusercontent.com/u/173885270?s=200&v=4" alt="Org 3" width="15"/>](https://github.com/NMRDfromMD) NMRDforMD -- Calculation of NMR relaxation time from simulation
+- [<img src="https://avatars.githubusercontent.com/u/110889758?s=200&v=4" alt="Org 4" width="15"/>](https://github.com/gromacstutorials) GROMACS tutorials -- Guides for GROMACS beginners
 
 ## Other projects:
 
-- GROMACS tutorials [:link:](https://gromacstutorials.github.io/) GROMACS step-by-step guides for absolute beginners
-- NMRforMD [:link:](https://nmrformd.readthedocs.io) Python script for the calculation of H-NMR relaxation time
-- MAICoS [:link:](https://maicos-devel.gitlab.io/maicos/index.html) molecular analysis of interfacial and confined systems 
-- Videos [:link:](https://www.youtube.com/c/SimonGravelle) of molecular simulations, mostly done with LAMMPS and GROMACS
+- [MAICoS](https://maicos-devel.gitlab.io/maicos/index.html) - molecular analysis of interfacial and confined systems
+- [Countoscope](https://github.com/Countoscope) - couting molecules in boxes
+- [Youtube](https://www.youtube.com/c/SimonGravelle) - videos from molecular simulations
 
 <!-- 
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCLmK_9wpyLVpcP7BPgN6BIw?style=for-the-badge&logoSize=auto&color=24999c&logo=youtube)
